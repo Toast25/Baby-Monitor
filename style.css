@@ -1,0 +1,11 @@
+#directions {
+    background-color:orange;
+    color:white;
+}
+body{
+    background-position:center;
+    background-size:cover;
+}
+canvas{
+margin-top:200px;
+}
